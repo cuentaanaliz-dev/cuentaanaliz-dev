@@ -9,10 +9,11 @@ I’m Ana Lizeth Mamani Huallpa, a student at CodeCrypto Academy. My focus is on
 ## Projects
 
 ###### Web2
-- **[Project Name]**  
+- **Mi Bolivia**  
   A full-stack web application using **HTML, CSS, JavaScript**. Focused on frontend design and user experience.  
-  [Repository Link](URL)
+  [https://github.com/cuentaanaliz-dev/proyecto-design](URL)
 
+###### In progress
 ###### Web2.5 
 - **[Project Name]**  
   REST API developed with **Node.js** and **MongoDB**, enhancing backend capabilities.  
